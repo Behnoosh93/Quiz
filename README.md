@@ -13,8 +13,10 @@ This week’s coursework will equip you with all the skills you need to succeed 
 
 The following animation demonstrates the application functionality:
 
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./assets/web1.jpeg) (./assets/web2.jpeg)
-
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./assets/web1.jpeg)
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./assets/web2.jpeg)
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./assets/web3.jpeg)
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./assets/web4.jpeg)
 
 
 ### Deployment: 
